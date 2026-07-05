@@ -1,4 +1,3 @@
-# shopper_spectrum_analysis
 # 🛒 Shopper Spectrum: Customer Segmentation & Product Recommendations
 
 An end-to-end data science project analyzing e-commerce transactions to uncover purchasing patterns, segment customers using RFM analysis, and build a collaborative filtering product recommendation system.
