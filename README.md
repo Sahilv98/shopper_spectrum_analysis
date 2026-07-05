@@ -18,7 +18,7 @@ An end-to-end data science project analyzing e-commerce transactions to uncover 
 *   `data/online_retail.csv`: The raw transaction dataset.
 *   `shopper_spectrum_eda_modeling.ipynb`: Jupyter Notebook containing data cleaning, exploratory data analysis (EDA), RFM engineering, and model training.
 *   `models/kmeans_rfm_model.pkl`: Saved K-Means clustering model.
-*   `app.py`: Streamlit web application script.
+*   `streamlit run streamlit_app_shopper_spectrum.py`: Streamlit web application script.
 
 ## ⚙️ Installation & Setup
 1. Clone the repository:
